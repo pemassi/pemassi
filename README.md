@@ -1,5 +1,5 @@
 ### Yoon Kim
-Hello, my full name is Kyungyoon Kim, but it's kinda hard to pronounce, so you can call me Yoon!
+Hello, my name is Kyungyoon Kim, but it's kinda hard to pronounce, so you can call me Yoon!
 I’m currently working for [TelCuOn](https://www.telcuon.com) as Full-stack developer in South Korea.
 
 ### I can speak...
