@@ -2,7 +2,12 @@
 Hello, my full name is Kyungyoon Kim, but it's kinda hard to pronounce, so you can call me Yoon!
 I’m currently working for [TelCuOn](https://www.telcuon.com) as Full-stack developer in South Korea.
 
-### My langauge
+### I can speak...
+- Korean
+- English
+- Japanese
+
+### My favorite programming langague is...
 I think `Koltin` is the most useful langauge now.
 
 ### I'm currently interested in...
