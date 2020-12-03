@@ -1,6 +1,6 @@
 ### Yoon Kim
 Hello, my name is Kyungyoon Kim, but it's kinda hard to pronounce, so you can call me Yoon!
-I’m currently working for [TelCuOn](https://www.telcuon.com) as CTO of R&D Headqutor and Full-stack developer in South Korea.
+I’m currently working for [TelCuOn](https://www.telcuon.com) as Team Leader of R&D Headqutor and Full-stack developer in South Korea.
 
 ### I can speak...
 - Korean
