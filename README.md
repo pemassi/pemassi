@@ -13,6 +13,9 @@ I think `Koltin` is the most useful langauge now.
 ### I'm currently interested in...
 These days, I'm learning `Vue.js`. 
 
+### If you wanna know more about me...
+Please check my [Linkedin profile](https://www.linkedin.com/in/kyungyoon-kim-2aa216133/). 
+
 ### Get in touch
 - E-mail: ruddbs5302@gmail.com
 
