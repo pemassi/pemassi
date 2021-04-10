@@ -1,4 +1,4 @@
-### Yoon Kim
+### Yoon Kim ![](https://www.codewars.com/users/pemassi/badges/micro)
 Hello, my name is Kyungyoon Kim, but it's kinda hard to pronounce, so you can call me Yoon!
 I’m currently working for [TelCuOn](https://www.telcuon.com) as Team Leader of R&D Headqutor and Full-stack developer in South Korea.
 
