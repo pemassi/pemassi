@@ -11,7 +11,7 @@ I’m currently working for [TelCuOn](https://www.telcuon.com) as Team Leader of
 I think `Koltin` is the most useful langauge now.
 
 ### I'm currently interested in...
-These days, I'm learning `Vue.js`, `Nuxt.js`, and `Python`. 
+These days, I'm learning `Python`, `ML`, `Finance`.
 
 ### If you wanna know more about me...
 Please check my [Linkedin profile](https://www.linkedin.com/in/kyungyoon-kim-2aa216133/). 
